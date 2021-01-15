@@ -1,0 +1,29 @@
+{
+  "rules": {
+    ".read": true,
+    ".write": true,
+      "Chat_Up": {
+        "Session1":{".indexOn": ["Message","Data","Name"],
+        "Data": { ".indexOn": ["Message","Name"]}
+			      }
+  },
+  		"Data": {".indexOn" :"Message"}
+  }
+
+}
+    /*"Chat_Up": {
+     "Session1":{ ".indexOn": "Message",
+      "Msg_1":{
+       "Data": {".indexOn": ["Message","Name","Deleted","Date_Time"]
+               }
+                 
+      },
+      "Msg_2":{
+        "Data": {".indexOn": ["Message","Name","Deleted","Date_Time"]}
+      }  
+              }
+             }         
+           }
+}
+
+*/
