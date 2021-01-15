@@ -1,0 +1,206 @@
+{
+  "Chat_Up" : {
+    "Session1" : {
+      "Data" : {
+        "Msg_1" : {
+          "Date_Time" : "2021-01-05:22:05:14:695244",
+          "Deleted" : "false",
+          "Message" : "shreyatesting",
+          "Name" : "Shreya"
+        },
+        "Msg_3" : {
+          "Date_Time" : "2021-01-06:00:59:27:678008",
+          "Deleted" : "false",
+          "Message" : "shreya_msg 3",
+          "Name" : "Shreya"
+        },
+        "Msg_4" : {
+          "Date_Time" : "2021-01-06:00:59:37:468593",
+          "Deleted" : "false",
+          "Message" : "saloni msg 4",
+          "Name" : "Shreya"
+        },
+        "Msg_5" : {
+          "Date_Time" : "2021-01-06:17:22:48:275971",
+          "Deleted" : "false",
+          "Message" : "testing msg as 5",
+          "Name" : "Shreya"
+        },
+        "Msg_6" : {
+          "Date_Time" : "2021-01-06:17:29:00:165334",
+          "Deleted" : "false",
+          "Message" : "testing msg_6",
+          "Name" : "Shreya"
+        },
+        "Msg_7" : {
+          "Date_Time" : "2021-01-11:16:31:41:243978",
+          "Deleted" : "false",
+          "Message" : "msg 7 is it?",
+          "Name" : "sherry"
+        }
+      }
+    },
+    "Session2" : {
+      "Data" : {
+        "Msg_1" : {
+          "Date_Time" : "2021-01-11:19:09:13:348260",
+          "Deleted" : "false",
+          "Message" : "msg 1 from django",
+          "Name" : "shreya"
+        }
+      }
+    },
+    "Session3" : {
+      "Data" : {
+        "Msg_1" : {
+          "Date_Time" : "2021-01-11:20:03:58:663189",
+          "Deleted" : "false",
+          "Message" : "hhhhhhh",
+          "Name" : "sherry"
+        },
+        "Msg_2" : {
+          "Date_Time" : "2021-01-11:20:10:10:211531",
+          "Deleted" : "false",
+          "Message" : "hfhfhfhfhfh",
+          "Name" : "sherry"
+        }
+      }
+    },
+    "Session4" : {
+      "Data" : {
+        "Msg_1" : {
+          "Date_Time" : "2021-01-11:20:17:28:633330",
+          "Deleted" : "false",
+          "Message" : "hey anyone here?",
+          "Name" : "shreya"
+        },
+        "Msg_10" : {
+          "Date_Time" : "2021-01-11:20:40:18:769362",
+          "Deleted" : "false",
+          "Message" : "ggggg",
+          "Name" : "salmon"
+        },
+        "Msg_2" : {
+          "Date_Time" : "2021-01-11:20:18:24:326156",
+          "Deleted" : "false",
+          "Message" : "ssup",
+          "Name" : "shreya"
+        },
+        "Msg_3" : {
+          "Date_Time" : "2021-01-11:20:19:41:225054",
+          "Deleted" : "false",
+          "Message" : "m good how about you",
+          "Name" : "Saloni"
+        },
+        "Msg_4" : {
+          "Date_Time" : "2021-01-11:20:31:07:314631",
+          "Deleted" : "false",
+          "Message" : "hhhhhhhhhh",
+          "Name" : "Sherry"
+        },
+        "Msg_5" : {
+          "Date_Time" : "2021-01-11:20:33:16:678823",
+          "Deleted" : "false",
+          "Message" : "sending from udemy",
+          "Name" : "salmon"
+        },
+        "Msg_6" : {
+          "Date_Time" : "2021-01-11:20:33:40:486762",
+          "Deleted" : "false",
+          "Message" : "okay gotchaa",
+          "Name" : "sherry"
+        },
+        "Msg_7" : {
+          "Date_Time" : "2021-01-11:20:38:45:167145",
+          "Deleted" : "false",
+          "Message" : "testing 1 sherry",
+          "Name" : "sherry"
+        },
+        "Msg_8" : {
+          "Date_Time" : "2021-01-11:20:39:05:033288",
+          "Deleted" : "false",
+          "Message" : "testing passed sherr",
+          "Name" : "salmon"
+        },
+        "Msg_9" : {
+          "Date_Time" : "2021-01-11:20:39:59:545276",
+          "Deleted" : "false",
+          "Message" : "ffffffff",
+          "Name" : "sherry"
+        }
+      }
+    },
+    "Session5" : {
+      "Data" : {
+        "Msg_1" : {
+          "Date_Time" : "2021-01-12:18:11:41:155933",
+          "Deleted" : "false",
+          "Message" : "hi 1st msg",
+          "Name" : "Shreya"
+        },
+        "Msg_2" : {
+          "Date_Time" : "2021-01-12:18:12:21:828246",
+          "Deleted" : "false",
+          "Message" : "hi from saloni",
+          "Name" : "Saloni"
+        },
+        "Msg_3" : {
+          "Date_Time" : "2021-01-12:18:12:46:155908",
+          "Deleted" : "false",
+          "Message" : "hi from shreya",
+          "Name" : "Shreya"
+        },
+        "Msg_4" : {
+          "Date_Time" : "2021-01-12:18:13:12:253210",
+          "Deleted" : "false",
+          "Message" : "hey ssp",
+          "Name" : "Saloni"
+        },
+        "Msg_5" : {
+          "Date_Time" : "2021-01-12:18:13:21:327656",
+          "Deleted" : "false",
+          "Message" : "m fine thanks",
+          "Name" : "Shreya"
+        }
+      }
+    },
+    "Session6" : {
+      "Data" : {
+        "Msg_1" : {
+          "Date_Time" : "2021-01-12:21:47:48:874397",
+          "Deleted" : "false",
+          "Message" : "sending msg from portal1",
+          "Name" : "shreya"
+        },
+        "Msg_2" : {
+          "Date_Time" : "2021-01-12:21:48:08:328717",
+          "Deleted" : "false",
+          "Message" : "sending msg from portal 2",
+          "Name" : "saloni"
+        }
+      }
+    },
+    "Session7" : {
+      "Data" : {
+        "Msg_1" : {
+          "Date_Time" : "2021-01-12:21:54:07:422813",
+          "Deleted" : "false",
+          "Message" : "portal 1 ",
+          "Name" : "shreya"
+        },
+        "Msg_2" : {
+          "Date_Time" : "2021-01-12:21:54:19:948174",
+          "Deleted" : "false",
+          "Message" : "portal 2",
+          "Name" : "saloni"
+        },
+        "Msg_3" : {
+          "Date_Time" : "2021-01-15:21:21:24:394656",
+          "Deleted" : "false",
+          "Message" : "hi testing ",
+          "Name" : "Renu"
+        }
+      }
+    }
+  }
+}
